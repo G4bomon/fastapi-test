@@ -1,3 +1,10 @@
+#Pruebas con fastapi
+
+##Clase es la que me encuentro actualmente
+
+Path Parameters and Numeric Validations
+
+##Notas importantes y caracteristicas
 **puntos basicos:**
 
 * autodocumentacion con swagger y otras herramientas de documentacion, facilidad de sobreescribir requerimientos y para validar informacion, ademas de que cuenta con un syntaxis simple a la hora de declarar querys y de otros cosos
