@@ -1,6 +1,6 @@
 # Pruebas con fastapi
 
-## Clase es la que me encuentro actualmente
+## Clase en la que me encuentro actualmente
 
 Path Parameters and Numeric Validations
 
